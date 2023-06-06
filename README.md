@@ -1,7 +1,7 @@
 # Olá, me chamo Davi Barcelos 
 ## Sobre mim
 
-Sou estudante do <a href="https://l.facebook.com/l.php?u=http%3A%2F%2Fifrj.edu.br%2Farraialdocabo%3Ffbclid%3DIwAR3YsrjZjvQgSTjlQbEmuA9rCoZPyfv6wsgJyL64SMWj23vgCX4K4mAGvvw&h=AT1mczKF67cDpzulJfOEAL-ZuvQvPC5UBiClpWy3sLHjxvgLOjgDt6ZB5TpkV7VuEgE1Ub_scaENLHmYsjLXL-t3s8o6qOUcqqU1LWVQnodVtimSifluRu_Nz8oZyhvjDpG01w">Instituto Federal de tecnologia e Ciência do Rio de Janeiro</a>, estou me cursando informática e tenho conhecimento das siguintes tecnologias:
+Sou estudante do <a href="https://l.facebook.com/l.php?u=http%3A%2F%2Fifrj.edu.br%2Farraialdocabo%3Ffbclid%3DIwAR3YsrjZjvQgSTjlQbEmuA9rCoZPyfv6wsgJyL64SMWj23vgCX4K4mAGvvw&h=AT1mczKF67cDpzulJfOEAL-ZuvQvPC5UBiClpWy3sLHjxvgLOjgDt6ZB5TpkV7VuEgE1Ub_scaENLHmYsjLXL-t3s8o6qOUcqqU1LWVQnodVtimSifluRu_Nz8oZyhvjDpG01w">Instituto Federal de tecnologia e Ciência do Rio de Janeiro</a>, estou me cursando informática e tenho conhecimento das seguintes tecnologias:
 
 ### Principais Linguagens e Tecnologias
 <div style="display: inline_block">
@@ -16,7 +16,7 @@ Sou estudante do <a href="https://l.facebook.com/l.php?u=http%3A%2F%2Fifrj.edu.b
 ### Nível de conhecimento:
 - HTML (Alto)
 - CSS (Alto) 
-- MySQL (baixo)
+- MySQL (médio)
 - Java (Médio)
 - JavaScript (Médio)
 - PHP (Médio)
